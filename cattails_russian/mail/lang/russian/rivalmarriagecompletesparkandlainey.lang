@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "Твоё великолепие",
+	"lang_mail_content_header": "Эй, эй, #player_name#!",
+	"lang_mail_content_body": "#npc_name_spark# рассказала мне о том, какой из тебя хороший слушатель. Я благодарен тебе за то, что ты остаёшься таким замечательным другом для моей супруги. Вау, так странно осознавать, что #npc_name_spark# теперь подходит под это слово, но я привыкну к этому!",
+	"lang_mail_content_signature": "Я так рад! -#npc_name_lainey#"
+}

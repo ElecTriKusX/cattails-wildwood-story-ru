@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "С днём рождения, #player_name#!",
+	"lang_mail_content_header": "Привет,",
+	"lang_mail_content_body": "Сегодня твой день рождения. Я верю, что он принесёт тебе счастье и радость. Дай мне знать, если я могу что-то сделать для тебя сегодня.",
+	"lang_mail_content_signature": "С добрыми пожеланиями, #npc_name_jag#"
+}

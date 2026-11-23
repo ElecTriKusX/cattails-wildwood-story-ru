@@ -1,0 +1,20 @@
+{
+	"lang_event_dialog_0": "[playful][gray]Псссссссс!! #player_name#! Это я, #npc_name_lainey#.///[happy]Иди сюда! Быстро! Спрячься со мной![/gray]",
+	"lang_event_dialog_1": "[playful]Куда мы идём, #npc_name_lainey#?",
+	"lang_event_dialog_2": "[playful]Прямо за тем кустом, #npc_name_spark#. Клянусь, я видел там золотую [green]Мышь[/green]!",
+	"lang_event_dialog_3": "[shocked]Ты уверен, #npc_name_lainey#? Ты весь день вёл себя как-то странно.",
+	"lang_event_dialog_4": "[thinking]Я уверен. А теперь пойдём, мы почти у цели!",
+	"lang_event_dialog_5": "[happy][gray]Приготовься, они идут!![/gray]",
+	"lang_event_dialog_6": "[thinking]Хм... Я не вижу золотой [green]Мыши[/green]...",
+	"lang_event_dialog_7": "[playful][gray]3... 2... 1...[/gray]",
+	"lang_event_dialog_8": "[playful][scary][b]БУ!!!!!!![/b][/scary]",
+	"lang_event_dialog_9": "[shocked]А-а! #npc_name_fliss#! #npc_name_lainey#! #player_name#! Стоп? Что??",
+	"lang_event_dialog_10": "[happy]Хаха, ты бы видела выражение своего лица! Мы не делали этого уже много лет!",
+	"lang_event_dialog_11": "[happy]Кстати, #npc_name_spark#, я #npc_name_lainey#. Ты общаешься с #npc_name_fliss# весь день. Мы дважды тебя подловили!",
+	"lang_event_dialog_12": "[playful]Что? Правда? Ух ты, вы двое действительно хорошие шутники, да? Я могла бы научиться у вас некоторым трюкам.///[happy]#npc_name_fliss#, у тебя очень хорошо получается изображать #npc_name_lainey#. Вы, должно быть, часто это делаете. Я и понятия не имела!",
+	"lang_event_dialog_13": "[happy]Я рада, что ты не рассердилась на нас, #npc_name_spark#. Спасибо за то, что хорошо отнеслась к шутке.///[thinking]#npc_name_jag#, как ты понимаешь, ни капли не оценил этого, когда мы пытались пошутить над ним...",
+	"lang_event_dialog_14": "[playful]Это был забавный розыгрыш. Вы оба молодцы. Может, в следующий раз и я смогу поучаствовать?",
+	"lang_event_dialog_15": "[neutral]Ну, я уже повеселилась. Теперь вы двое можете идти и веселиться. Я оставлю вас наедине.",
+	"lang_event_dialog_16": "[happy]Отлично! Может быть, настоящий #npc_name_lainey# и я сможем найти ту золотую [green]Мышь[/green].",
+	"lang_event_dialog_17": "[blushing]#npc_name_spark#... Ты же понимаешь, что я это выдумал, да?"
+}

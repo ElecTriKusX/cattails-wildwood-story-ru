@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "Мне холодно",
+	"lang_mail_content_header": "Привет, #player_name#:",
+	"lang_mail_content_body": "Мне очень холодно. В этом году холоднее, чем обычно? Мне надоел весь этот снег. Я готова снова стать тёплой. Если найдёшь что-нибудь тёплое, принеси мне, хорошо?",
+	"lang_mail_content_signature": "От: #npc_name_buttercup#"
+}

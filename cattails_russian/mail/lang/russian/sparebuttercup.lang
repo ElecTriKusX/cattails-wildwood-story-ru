@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "Лишние белки",
+	"lang_mail_content_header": "О, привет, #player_name#!",
+	"lang_mail_content_body": "Я как раз освобождала свой ящик для хранения и обнаружила, что у меня есть пара лишних Белок, а хранить их негде. Они тебе нужны? Они в твоём распоряжении.",
+	"lang_mail_content_signature": "От: #npc_name_buttercup#"
+}

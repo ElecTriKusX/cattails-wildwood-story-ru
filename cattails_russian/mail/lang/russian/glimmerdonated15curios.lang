@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "Настоящий экспонат",
+	"lang_mail_content_header": "#player_name#...",
+	"lang_mail_content_body": "О-хо-хо! Музей наконец-то обретает форму, в немалой степени благодаря твоим усилиям! Тобой было пожертвовано 15 Диковинок. Молодец!",
+	"lang_mail_content_signature": "~#npc_name_glimmer#, Куратор музея"
+}

@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "Время для вечеринки!",
+	"lang_mail_content_header": "Привет, #player_name#,",
+	"lang_mail_content_body": "У тебя много планов на сегодня? У тебя день рождения, так что я думаю, что у тебя всё забито. Если найдёшь время, загляни ко мне, я приготовлю для тебя подарок.",
+	"lang_mail_content_signature": "Никакого давления! -#npc_name_phantom#"
+}

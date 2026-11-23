@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "Благодарность",
+	"lang_mail_content_header": "Здравствуй, #player_name#.",
+	"lang_mail_content_body": "После нашей свадебной церемонии меня переполняло чувство благодарности за всех потрясающих друзей в моей жизни. Ты - один из лучших. #npc_name_bob# и я очень благодарны тебе, #player_name#.",
+	"lang_mail_content_signature": "Спасибо за всё. -#npc_name_buttercup#"
+}

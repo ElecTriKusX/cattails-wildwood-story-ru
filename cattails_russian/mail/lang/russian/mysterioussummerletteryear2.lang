@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "Вам, #player_name#",
+	"lang_mail_content_header": "Дорогой(-ая) #player_name#:",
+	"lang_mail_content_body": "На вас лежит большая ответственность за защиту тех, кого вы любите. Тем, на кого возложена такая ноша, никогда не помешает небольшая помощь.",
+	"lang_mail_content_signature": "-Друг"
+}

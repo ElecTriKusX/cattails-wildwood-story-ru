@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "С Новым годом!",
+	"lang_mail_content_header": "С Новым годом, #player_name#!",
+	"lang_mail_content_body": "Наконец-то мы преодолели суровую зиму и вступили в новый год! Давай сделаем этот год продуктивным, #player_name#. Нам еще многое предстоит сделать, чтобы наш дом в Диколесье стал ещё лучше.",
+	"lang_mail_content_signature": "Искренне, #npc_name_coco#"
+}

@@ -1,0 +1,12 @@
+{
+	"lang_event_dialog_0": "[thinking]Я нашёл это сразу за границей. Понятия не имею, что это такое.///[shocked]А вдруг это опасно для тех, чей дом — #colony_full_name_with_article#? Может, выбросить?",
+	"lang_event_dialog_1": "[thinking]Я никогда не видела ничего подобного. Возможно, #npc_name_theforestguardian# знает, что это.",
+	"lang_event_dialog_2": "[neutral]Я уже пробовал спрашивать, #npc_name_theforestguardian# не ответила.",
+	"lang_event_dialog_3": "[neutral]Идеальный тайминг, #player_name#. #npc_name_jag# нашёл этот странный предмет, когда исследовал границы #colony_title_with_article#. Ты знаешь, что это?",
+	"lang_event_choice_1": "Оно опасно! Я заберу это.",
+	"lang_event_choice_2": "Оно безопасно и очень ценно!",
+	"lang_event_dialog_4": "[shocked]Тогда нельзя терять времени! Мы должны избавиться от него прямо сейчас.///[thinking]#player_name#, возьми этот странный предмет и избавься от него.///[neutral]#colony_full_name_capitalized_with_article# снова будет в безопасности благодаря твоим доблестным усилиям.",
+	"lang_event_dialog_5": "[shocked]Мы уважаем твою храбрость!",
+	"lang_event_dialog_6": "[shocked]Оно... совершенно безопасно? И стоит очень много [yellow]Мявок[/yellow]?///[thinking]Хммм... Ну, в таком случае...///[happy]Я нашёл его первым! Я отнесу это в магазин, чтобы его оценили. Спасибо, что делишься своими знаниями, #player_name#.",
+	"lang_event_dialog_7": "[happy]Поздравляю, #npc_name_jag#. В будущем тебе стоит ещё поискать это, когда будешь путешествовать по границам."
+}

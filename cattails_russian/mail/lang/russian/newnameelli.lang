@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "Новое имя?",
+	"lang_mail_content_header": "Хорошего денёчка, #player_name#!",
+	"lang_mail_content_body": "Тебе нравится твоё новое имя?\n\n#player_name#... У него действительно прекрасный звук! Оно хорошо подходит тебе.",
+	"lang_mail_content_signature": "От: #npc_name_elli#!"
+}

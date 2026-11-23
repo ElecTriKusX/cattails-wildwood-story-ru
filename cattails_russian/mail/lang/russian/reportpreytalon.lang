@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "Отчёт: добыча",
+	"lang_mail_content_header": "#player_name#:",
+	"lang_mail_content_body": "Я рада сообщить, что в Диколесье в изобилии водится добыча. В своих путешествиях я встретила несколько вкусных зверьков. Я приложила к этому отчёту несколько образцов.",
+	"lang_mail_content_signature": "С уважением, #npc_name_talon#"
+}

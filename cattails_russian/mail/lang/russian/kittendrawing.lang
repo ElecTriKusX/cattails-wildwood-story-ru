@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "моё искусство",
+	"lang_mail_content_header": "я сделала это для тебя",
+	"lang_mail_content_body": "(#player_name# и я)",
+	"lang_mail_content_signature": "с любовью, #npc_name_kittentwo#"
+}

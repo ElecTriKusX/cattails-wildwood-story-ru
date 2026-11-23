@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "Наши ряды пополняются",
+	"lang_mail_content_header": "#player_name#:",
+	"lang_mail_content_body": "По последним данным, у вас родились котята. Хорошо, нашему городу понадобится новое сильное поколение, чтобы укрепить наши передовые позиции.",
+	"lang_mail_content_signature": "Поздравляю. #npc_name_talon#"
+}

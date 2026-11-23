@@ -1,5 +1,7 @@
 # Cattails: Wildwood Story — русский перевод
 
+![Обложка русификатора](images/steam-guide-cover.png)
+
 Фанатская русская локализация для **Cattails: Wildwood Story 1.21** на ПК. Версия перевода — **v0.1.0**.
 
 [Скачать русификатор](https://github.com/ElecTriKusX/cattails-wildwood-story-ru/releases/download/v0.1.0/cattails_russian.zip) · [Страница релиза](https://github.com/ElecTriKusX/cattails-wildwood-story-ru/releases/tag/v0.1.0)
@@ -39,3 +41,7 @@
 В сборке использованы тексты и значок языка из фанатской русской беты. Авторы беты: szczur_mysz, Nubezumie, RedFox, LaryOne, darrey, Rakel Eneliss и ah.satan. [Обсуждение оригинального перевода](https://vk.ru/topic-147675230_65726393).
 
 Cattails: Wildwood Story разработана Falcon Development. Это фанатский проект.
+
+## Файлы перевода
+
+Папка `cattails_russian` содержит файлы мода из релиза v0.1.0. Для работы над переводом редактируйте файлы `.lang` в этой папке. Для выпуска архива поместите папку `cattails_russian` в корень ZIP-архива и приложите его к новому релизу.

@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "Ура!",
+	"lang_mail_content_header": "Как дела, #player_name#??",
+	"lang_mail_content_body": "#npc_name_elli# заставляет меня писать все эти открытки с благодарностями всем, кого мы знаем, теперь, когда мы женаты. Видимо, так уж устроен брак, да? Я увидел тебя в списке, так что держи!",
+	"lang_mail_content_signature": "Будь на стиле. #npc_name_champ#"
+}

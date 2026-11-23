@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "Просто так!",
+	"lang_mail_content_header": "Привет-привет, #player_name#!",
+	"lang_mail_content_body": "У меня есть для тебя подарок! Надеюсь, он тебе понравится. Особого повода не было, но я решила, что он тебе пригодится. Наслаждайся!",
+	"lang_mail_content_signature": "С любовью, #npc_name_spark#"
+}

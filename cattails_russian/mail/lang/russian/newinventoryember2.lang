@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "Новая партия вещей!",
+	"lang_mail_content_header": "Как ты, #player_name#?",
+	"lang_mail_content_body": "Пришла ещё одна новая партия! Сейчас я готовлю полки. Загляни как-нибудь, чтобы увидеть все новинки, которые есть у меня на продажу.",
+	"lang_mail_content_signature": "От: #npc_name_ember#"
+}

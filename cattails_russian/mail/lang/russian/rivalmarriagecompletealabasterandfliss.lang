@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "Открытка с благодарностью",
+	"lang_mail_content_header": "Привет, #player_name#,",
+	"lang_mail_content_body": "Я пишу, чтобы поблагодарить тебя за дружбу, которую с тобой разделяю и я, и #npc_name_alabaster#. Я просто знаю, что мы будем очень счастливы вместе. К этому письму прилагается небольшой знак моей признательности.",
+	"lang_mail_content_signature": "Искренне... #npc_name_fliss#"
+}

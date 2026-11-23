@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "Поздравляю!",
+	"lang_mail_content_header": "Тебе, #player_name#,",
+	"lang_mail_content_body": "Теперь вы семейная пара! Поздравляю. Я знаю, что вы найдёте свою жизнь обогащенной благодаря любви друг к другу. В это письмо я вложил свадебный подарок.",
+	"lang_mail_content_signature": "Не пропадайте! #npc_name_bob#"
+}

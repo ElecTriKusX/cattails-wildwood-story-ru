@@ -1,0 +1,6 @@
+{
+	"lang_mail_subject": "Пополнение?",
+	"lang_mail_content_header": "Здоров, #player_name#.",
+	"lang_mail_content_body": "Вау, ваша семья становится очень большой! Вас уже шестеро? Это жёстко. Ну, вот вам немного денег на расходы и всё такое. Удачи, думаю, она вам понадобится.",
+	"lang_mail_content_signature": "Звучит дорого! -#npc_name_champ#"
+}

@@ -1,0 +1,21 @@
+{
+	"lang_npc_name": "Фалькон",
+	"lang_dev_shop_name_title": "Магазин Dev",
+	"lang_dev_shop_buy": "Купить [green] #buy_item_name# [/green]  для [red]#buy_item_price#[/red]?",
+	"lang_dev_shop_sell": "Продажа [green] #item_name# [/green] [green]#item_sell_price#[/green]?",
+	"lang_dev_shop_sell_everything": "Продай все за [green]#item_sell_price#[/green]?",
+	"lang_dev_shop_sell_everything_invalid": "Продай все, что у тебя есть. [green]#item_sell_price#[/green]? Некоторые из ваших предметов здесь не продаются.",
+	"lang_dev_shop_sell_everything_nothing": "У тебя здесь нет ничего, что можно продать!",
+	"lang_dev_shop_cannot_sell": "Вы не можете продать этот предмет в этом магазине.",
+	"lang_dev_shop_thanks": "Предмет приобретен!",
+	"lang_dev_not_enough_inventory": "Ваш инвентарь полон, пожалуйста, вернитесь с пустым помещением для этого предмета.",
+	"lang_dev_not_enough_currency": "У вас нет необходимых средств для покупки этого предмета.",
+	"falcon_intro_neutral": "[neutral]Привет, добро пожаловать в магазин.",
+	"falcon_intro_neutral_high_priority": "[neutral]Дождь. Высокий приоритет.",
+	"falcon_test_dialog_sunny": "[neutral]Это солнечный диалог.",
+	"falcon_test_dialog_generic": "[neutral]Общий диалог.",
+	"falcon_high_priority_dialog": "[neutral]Это диалог с высоким приоритетом 1.",
+	"falcon_high_priority_dialog2": "[neutral]Высокий приоритет 2",
+	"falcon_test_dialog_autumn": "[neutral]Сейчас осень.",
+	"falcon_test_met_coco": "[neutral]Я вижу, вы встречались. #npc_name_coco#."
+}

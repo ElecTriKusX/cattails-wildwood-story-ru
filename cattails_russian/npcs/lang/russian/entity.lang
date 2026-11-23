@@ -1,0 +1,9 @@
+{
+	"lang_npc_name": "???",
+	"lang_npc_intro_neutral": "[black]Глурп-глурп![/black] [gray](Приветик, усатик!)[/gray]///[black]Глурпити-глуп-глуппо?[/black] [gray](У тебя есть время сыграть в весёлую игру?)[/gray]",
+	"lang_npc_no_game": "[black]Глуг-глорп...[/black] [gray](Ох... Может, в другой раз. Всё в порядке...)[/gray]",
+	"lang_npc_play_game": "[black]Глуппи-глуп-глупро![/black] [gray](Ура! Я всё подготовлю.)[/gray]",
+	"lang_npc_prize_notification": "[black]Глуппити, глуп-глупперс глуппо-глурп.[/black] [gray](Если дойдёшь до [blue]#score_required_num#[/blue] очков, то я дам тебе [blue]особенную награду[/blue]!)[/gray]",
+	"lang_npc_prize_won": "[black]Глуп! Глорп! Глурппо-глурп![/black] [gray](Невероятно! Прими мои поздравления! Моё испытание пройдено!)[/gray]",
+	"lang_npc_prize_post": "[black]Глип-глеп.[/black] [gray](Я дарую тебе #prize_name#.)[/gray]///[black]Глуппи-гуп глурппо-глурп.[/black] [gray](Приходи поиграть в любое время, ладно?)[/gray]"
+}

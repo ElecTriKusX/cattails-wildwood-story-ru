@@ -1,0 +1,12 @@
+{
+	"lang_npc_name": "Кротси",
+	"lang_npc_intro_neutral": "Рада встрече! Чему я обязана удовольствием от вашего сегодняшнего визита, #player_name#?",
+	"lang_npc_intro_neutral_choice_0": "Мои достижения в шахте?",
+	"lang_npc_intro_neutral_choice_0_path": "lang_mine_stats",
+	"lang_mine_stats": "Позвольте глянуть... Секундочку, подсчёт займёт какое-то время.///Вы смогли достичь [orange]#mine_deepest_level# этаж[/orange] шахты. #reached_bottom_of_mine_flavor#///В сумме вы посетили [orange]#total_mine_descends# этажей[/orange] и разбили [orange]#total_mine_rocks# камней[/orange]. #impressive_mine_stats_flavor#",
+	"lang_npc_mine_two_level_stats": "Во второй шахте вы достигли [orange]#mine_deepest_level# этажа[/orange].",
+	"lang_npc_mine_three_level_stats": "А в третьей шахте вы достигли [orange]#mine_deepest_level# этажа[/orange].",
+	"lang_npc_intro_neutral_choice_1": "Мне пора, извини!",
+	"lang_npc_intro_neutral_choice_1_path": "lang_mine_stats_bye",
+	"lang_mine_stats_bye": "О, не волнуйтесь. У меня всё равно много документов, которые мне нужно заархивировать.///Счастливого копания, #player_name#!"
+}
